@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="color_accent">#00BCD4</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Couleurs des catégories IMC imposées par le TP -->
+    <color name="imc_insuffisance">#FF9800</color> <!-- Orange -->
+    <color name="imc_normale">#4CAF50</color>      <!-- Vert -->
+    <color name="imc_surpoids">#FF9800</color>      <!-- Orange -->
+    <color name="imc_obesite_moderee">#F44336</color><!-- Rouge -->
+    <color name="imc_obesite_severe">#E53935</color> <!-- Rouge -->
+    <color name="imc_obesite_morbide">#B71C1C</color><!-- Rouge foncé -->
+</resources>
